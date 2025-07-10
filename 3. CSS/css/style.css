@@ -1,0 +1,82 @@
+html {
+    font-size: 22px;
+    line-height: 1.5;
+    background:blanchedalmond ;
+    color: black;
+}
+body {
+    font-size: 22px;
+}
+
+/* h1, h2 {
+    color: rgb(15, 15, 223);
+} */
+
+/* p {
+    color: purple;
+} */
+
+.highlight   {
+    background-color: gold;
+}
+* {
+
+}
+span {
+    text-transform: uppercase;
+    background-color: goldenrod;
+}
+button, input, textarea, select {
+    font: inherit;
+}
+.gray {
+    color: gray;
+}
+#second {
+    font-style: italic;
+}
+
+#three {
+    border:1px dashed black;
+    width: 10%;
+    font-size: 1.5rem;
+    margin: 1.5rem;
+    padding: 1.5rem;
+    outline: 5px solid purple;
+    outline-offset: -20px;
+}
+.circle {
+    background:yellow;
+    border: 10px;
+    margin: 10rem auto;
+    width: 500px;   
+    height: 500px;
+    border-radius: 50%;
+    outline: 2px solid black;
+    outline-offset: 0.25rem;
+}
+
+.Form {
+    padding: 10%;
+    font-size: 2rem;
+    color: purple;
+}
+input, button {
+    font: inherit;
+
+}
+
+a {
+    text-decoration: none;
+    cursor:pointer;
+    color:aqua;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: dodgerblue;
+}
+a:active {
+    color: tomato;
+}
