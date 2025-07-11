@@ -67,16 +67,29 @@ input, button {
 }
 
 a {
-    text-decoration: none;
-    cursor:pointer;
-    color:aqua;
+    /* text-decoration: none; */
+    /* cursor:pointer; */
+    color:black;
 }
 a:visited {
     color: purple;
 }
-a:hover {
-    color: dodgerblue;
+a:hover, a:focus {
+    color: hsl(207, 44%, 49%, 0.8);
+    background: gold;
 }
 a:active {
-    color: tomato;
+    color: red;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* .ol, .ul    {
+    padding: 5% 10%;
+    font-size: 2rem;
+    font-family: "Roboto Mono", monospace, sans-serif;
+} */
+
+.ol {
+    list-style-type:lower-roman;
+    list-style-image: url("//img/");
 }
