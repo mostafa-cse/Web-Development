@@ -122,9 +122,10 @@ This is a personal learning repository, but I welcome:
 
 ## 📞 Connect with Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Mostafa Kamal](https://www.linkedin.com/in/m0stafa-kamal/)
+- GitHub: [M0stafa](https://github.com/mostafa-cse)
+- Email:mostafakamal.cse2022@gmail.com
+
 
 ---
 
